@@ -1,0 +1,6 @@
+.jshintrc
+.project
+.settings
+*.eml
+.tern-project
+node_modules
